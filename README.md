@@ -6,6 +6,8 @@
 
 Public repository: [omicachow/AI-Mediated-Personal-Infrastructure](https://github.com/omicachow/AI-Mediated-Personal-Infrastructure). The manuscript was anonymously verified after the first public push; see [version history](CHANGELOG.md) for the UTC observation interval. Zenodo archival publication is pending.
 
+Frozen version: [v0.1 Release](https://github.com/omicachow/AI-Mediated-Personal-Infrastructure/releases/tag/v0.1), published `2026-10-14T06:14:36Z` (UTC; 14:14:36 Asia/Shanghai). Its four downloadable assets passed anonymous SHA256 readback; the ZIP contains exactly 14 approved public files. This repository may receive traceable citation metadata updates while the tag and release assets remain fixed.
+
 The future personal computing environment may be an AI coordination layer over existing software. AMPI organizes specialized tools around a person's goals through semantic interpretation, tool invocation, persistent state, and verifiable execution. Conventional components preserve evidence and artifacts, enforce scoped authority, and support recovery. AI should know which existing system should do the work; it need not perform every step itself.
 
 - [Read the concept note](paper/AMPI-v0.1.md)
@@ -39,3 +41,5 @@ python scripts/build.py
 The build reads the manuscript and local SVG only. It does not access AcademicWorkspace, log into a service, or publish anything. Fonts are supplied by the build machine and embedded in the PDF; no font binaries are distributed here. The tested Windows build uses Georgia, Calibri, Microsoft YaHei, and the SVG renderer's Arial fallback from the operating system. On another machine, supply licensed fonts through `AMPI_SERIF`, `AMPI_SERIF_BOLD`, `AMPI_SERIF_ITALIC`, `AMPI_SANS`, `AMPI_SANS_BOLD`, and `AMPI_CJK`; verify the SVG renderer's font substitution as well. A rebuild may produce different bytes with different fonts or a different build timestamp; compare the release's recorded SHA256 for file identity.
 
 The build also regenerates citation files from the manuscript front matter. For citation after publication, retain the supplied metadata or restore verified publication fields from the public record. A PDF rebuild does not create a new publication.
+
+`SHA256SUMS` in the current repository describes the current metadata revision. For the immutable v0.1 files, use the checksum asset and file hashes on the v0.1 Release page.

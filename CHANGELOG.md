@@ -16,3 +16,11 @@ The reviewed concept note was first pushed to its independent public GitHub repo
 - The verified date `2026-10-14` was then added to citation metadata. The manuscript, PDF and diagram remain unchanged.
 
 The v0.1 tag and release assets freeze the reviewed release copy. The GitHub Release has its own platform publication timestamp. Zenodo remains pending; no DOI has been assigned or reserved. Later verified identifiers and platform timestamps may be recorded in traceable metadata commits without replacing the frozen manuscript or moving the tag.
+
+### Verified GitHub Release and subsequent metadata record
+
+- [v0.1 Release](https://github.com/omicachow/AI-Mediated-Personal-Infrastructure/releases/tag/v0.1) was published at `2026-10-14T06:14:36Z` (GitHub platform timestamp; 14:14:36 Asia/Shanghai on 14 October 2026).
+- Frozen tag `v0.1` points to `1ea3aae0a167c21fe31ccddf6ef0dcb8b074bca9`.
+- Anonymous access to the repository, release page and public Release API succeeded. All four downloaded assets matched their frozen SHA256 values; all 14 ZIP members matched the approved whitelist and file hashes.
+- This subsequent commit records the verified release time and readback. Only README, version history and their checksums change; the frozen manuscript, PDF, diagram, tag and Release assets remain unchanged.
+- Zenodo publication and DOI remain pending. This GitHub publication is not presented as a completed Zenodo archive.
