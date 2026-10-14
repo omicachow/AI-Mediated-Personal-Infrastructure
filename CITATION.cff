@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: Please cite the concept note in preferred-citation. Concept note / position
-  statement; not peer reviewed. Version 0.1 release copy.
+  statement; not peer reviewed. Published version 0.1.
 title: 'AI-Mediated Personal Infrastructure: From AI-Built Apps to AI-Coordinated
   Personal Systems'
 authors: &id001
@@ -25,10 +25,13 @@ preferred-citation:
     Personal Systems'
   authors: *id001
   version: '0.1'
-  notes: Concept note / position statement; not peer reviewed. Version 0.1 release
-    copy.
+  notes: Concept note / position statement; not peer reviewed. Published version 0.1.
   year: 2026
   date-published: '2026-10-14'
-  url: https://github.com/omicachow/AI-Mediated-Personal-Infrastructure
+  doi: 10.5281/zenodo.23359981
+  url: https://zenodo.org/records/23359981
+  publisher:
+    name: Zenodo
 date-released: '2026-10-14'
-url: https://github.com/omicachow/AI-Mediated-Personal-Infrastructure
+doi: 10.5281/zenodo.23359981
+url: https://zenodo.org/records/23359981
