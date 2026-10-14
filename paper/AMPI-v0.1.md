@@ -5,7 +5,8 @@ given_name: "Omica"
 family_name: "Chow"
 version: "0.1"
 draft_date: "2026-10-14"
-status: "Unpublished local-review version"
+status: "Version 0.1 release copy"
+public_url: "https://github.com/omicachow/AI-Mediated-Personal-Infrastructure"
 genre: "Concept note / position statement; not peer reviewed"
 language: "en"
 ---
@@ -17,7 +18,7 @@ language: "en"
 **Omica Chow**  
 **Version 0.1** | Concept note / position statement; not peer reviewed  
 **Draft date:** 14 October 2026  
-**Status:** Unpublished local-review version
+**Status:** Version 0.1 release copy
 
 ## Abstract
 
@@ -123,9 +124,9 @@ Omica Chow contributes the architecture's synthesis and design choices, its situ
 
 The term AMPI arose in discussions between the author and ChatGPT about existing practice. This manuscript was prepared with AI assistance for research support, code inspection, organization, writing, translation, and production. AI is not an author. Omica Chow is responsible for reviewing and approving the public version and its claims.
 
-**Citation of this local version:** Chow, Omica. *AI-Mediated Personal Infrastructure: From AI-Built Apps to AI-Coordinated Personal Systems*. Version 0.1. Concept note / position statement. Unpublished local-review version.
+**Citation:** Chow, Omica. *AI-Mediated Personal Infrastructure: From AI-Built Apps to AI-Coordinated Personal Systems*. Version 0.1. Concept note / position statement. CC BY 4.0.
 
-The draft date identifies preparation. This version has no public publication date or assigned DOI. A public release can provide an attributable, dated record of this formulation; its timestamp does not settle worldwide priority or confer exclusive ownership of a general idea. Machine-readable citation metadata accompanies the manuscript.
+The draft date identifies preparation. Consult the accompanying citation metadata and public release records for verified publication dates and identifiers. A public release can provide an attributable, dated record of this formulation; its timestamp does not settle worldwide priority or confer exclusive ownership of a general idea. Machine-readable citation metadata accompanies the manuscript.
 
 ## References
 

@@ -4,4 +4,4 @@
 
 Expanded the initial concept draft with working-tree verification, a sanitized historical task chain, scoped related-work comparison, a dedicated discussion of OS-level GUI agents, original reference architecture, substantive Chinese abstract, and citation metadata. The manuscript records implementation limits and AI assistance.
 
-**Public release status:** unpublished. No Release, public repository, or Zenodo record has been created by this preparation task. The actual first public release date will be recorded from the platform, with UTC time and version details. The draft date is not a retrospective publication date.
+The author approved public release of the reviewed file whitelist. Release metadata and verified platform timestamps are recorded below after publication. Preparation dates are not retrospective publication dates.
