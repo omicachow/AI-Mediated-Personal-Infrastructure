@@ -2,9 +2,9 @@
 
 **Omica Chow · Version 0.1 · Concept note / position statement · Not peer reviewed**
 
-**Version 0.1 release copy.** Prepared on 14 October 2026. The draft date is distinct from public publication. Verified release timestamps and identifiers are recorded in the version history and citation metadata. No DOI has been assigned.
+**Published on GitHub on 14 October 2026.** Version 0.1; prepared on 14 October 2026. The draft date is distinct from public publication. Verified release timestamps and identifiers are recorded in the version history and citation metadata. No DOI has been assigned.
 
-Public repository: [omicachow/AI-Mediated-Personal-Infrastructure](https://github.com/omicachow/AI-Mediated-Personal-Infrastructure).
+Public repository: [omicachow/AI-Mediated-Personal-Infrastructure](https://github.com/omicachow/AI-Mediated-Personal-Infrastructure). The manuscript was anonymously verified after the first public push; see [version history](CHANGELOG.md) for the UTC observation interval. Zenodo archival publication is pending.
 
 The future personal computing environment may be an AI coordination layer over existing software. AMPI organizes specialized tools around a person's goals through semantic interpretation, tool invocation, persistent state, and verifiable execution. Conventional components preserve evidence and artifacts, enforce scoped authority, and support recovery. AI should know which existing system should do the work; it need not perform every step itself.
 
