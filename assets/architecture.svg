@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="675" viewBox="0 0 1100 675">
+  <title>AMPI reference architecture</title>
+  <desc>Existing systems connect through scoped adapters to persistent evidence and state. Replaceable AI coordination interprets records and proposes an operation. Authorization and validation precede conventional execution through direct interfaces, commands, specialized programs or optional GUI interaction. Artifacts and outcome records feed back into durable state. Conceptual diagram by Omica Chow.</desc>
+  <g font-family="Sans, Arial, sans-serif" text-anchor="middle" fill="#173a4b">
+    <rect x="40" y="20" width="1020" height="92" rx="12" fill="#edf4f6" stroke="#45677a" stroke-width="2"/>
+    <text x="550" y="55" font-size="24" font-weight="bold">Existing software, services, files and devices</text>
+    <text x="550" y="86" font-size="19">Scoped adapters expose observations and capabilities</text>
+    <rect x="40" y="157" width="590" height="112" rx="12" fill="#f4f6f7" stroke="#45677a" stroke-width="2"/>
+    <text x="335" y="193" font-size="24" font-weight="bold">Persistent evidence and state</text>
+    <text x="335" y="223" font-size="18">Sources / user decisions / proposals / outcomes</text>
+    <text x="335" y="248" font-size="18">Personal goals, permissions and artifact baselines</text>
+    <rect x="685" y="157" width="375" height="112" rx="12" fill="#e7f1f4" stroke="#45677a" stroke-width="2"/>
+    <text x="872" y="195" font-size="23" font-weight="bold">Replaceable AI coordination</text>
+    <text x="872" y="227" font-size="18">Interpret / reconcile / select capability</text>
+    <text x="872" y="251" font-size="17">Propose; defer ambiguity for review</text>
+    <rect x="40" y="326" width="1020" height="82" rx="12" fill="#fff7e7" stroke="#9a7c40" stroke-width="2"/>
+    <text x="550" y="359" font-size="24" font-weight="bold">Authorization and validation boundary</text>
+    <text x="550" y="388" font-size="18">Concrete operation / scope / current preconditions / human review where required</text>
+    <rect x="40" y="456" width="1020" height="84" rx="12" fill="#f4f6f7" stroke="#45677a" stroke-width="2"/>
+    <text x="550" y="487" font-size="24" font-weight="bold">Conventional bounded execution</text>
+    <text x="550" y="517" font-size="19">Direct interfaces / existing commands / specialized programs / GUI (optional)</text>
+    <rect x="40" y="591" width="1020" height="65" rx="12" fill="#edf4f6" stroke="#45677a" stroke-width="2"/>
+    <text x="550" y="618" font-size="23" font-weight="bold">Artifacts, receipts and unresolved outcomes</text>
+    <text x="550" y="643" font-size="18">Byte checks / readable files / remote readback / recoverable versions</text>
+  </g>
+  <g fill="none" stroke="#45677a" stroke-width="2.5">
+    <line x1="335" y1="112" x2="335" y2="151"/>
+    <line x1="637" y1="206" x2="677" y2="206"/>
+    <line x1="678" y1="237" x2="638" y2="237"/>
+    <line x1="872" y1="270" x2="872" y2="319"/>
+    <line x1="550" y1="409" x2="550" y2="449"/>
+    <line x1="550" y1="541" x2="550" y2="584"/>
+    <path d="M40,623 H12 V213 H32"/>
+  </g>
+  <g fill="#45677a">
+    <path d="M335,155 L329,144 L341,144 Z"/>
+    <path d="M679,206 L668,200 L668,212 Z"/>
+    <path d="M636,237 L647,231 L647,243 Z"/>
+    <path d="M872,321 L866,310 L878,310 Z"/>
+    <path d="M550,451 L544,440 L556,440 Z"/>
+    <path d="M550,586 L544,575 L556,575 Z"/>
+    <path d="M38,213 L27,207 L27,219 Z"/>
+  </g>
+  <g font-family="Sans, Arial, sans-serif" font-size="16" fill="#45677a">
+    <text x="886" y="303">operation proposal</text>
+    <text x="566" y="572">verify and record</text>
+  </g>
+</svg>

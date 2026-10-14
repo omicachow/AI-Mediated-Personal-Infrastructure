@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: Please cite the concept note in preferred-citation. Concept note / position
+  statement; not peer reviewed. Unpublished local-review version.
+title: 'AI-Mediated Personal Infrastructure: From AI-Built Apps to AI-Coordinated
+  Personal Systems'
+authors: &id001
+- given-names: Omica
+  family-names: Chow
+version: '0.1'
+license: CC-BY-4.0
+abstract: A design framework for coordinating existing specialized software around
+  personal goals through semantic interpretation, persistent state, scoped authority,
+  and verifiable execution. AcademicWorkspace provides a sanitized implementation-informed
+  case.
+keywords:
+- AI-mediated personal infrastructure
+- semantic coordination
+- personal computing
+- persistent state
+- human authority
+- GUI agents
+preferred-citation:
+  type: report
+  title: 'AI-Mediated Personal Infrastructure: From AI-Built Apps to AI-Coordinated
+    Personal Systems'
+  authors: *id001
+  version: '0.1'
+  notes: Concept note / position statement; not peer reviewed. Unpublished local-review
+    version.
